@@ -1,0 +1,31 @@
+# Environnement virtuel
+.venv/
+venv/
+
+# Données (trop lourdes pour GitHub)
+data/
+*.parquet
+*.csv
+*.xlsx
+
+# Fichiers Power BI
+*.pbix
+
+# Cache API
+.cache/
+*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Scripts utilitaires
+create_notebook.py
+main.py
+create_notebook.py
+create_eda_notebook.py
+uv.lock
