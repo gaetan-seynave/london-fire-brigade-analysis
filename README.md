@@ -46,9 +46,9 @@ reports/
 
 ## Tableau de bord Power BI
 
-👉 [Accéder au rapport interactif](https://app.powerbi.com/view?r=eyJrIjoiN2UyNTMxYTItZmY2Yy00OGQzLTk3ZjItOGFlZDRkNDY3NGE3IiwidCI6IjI3YThmZjFkLTc1YTAtNGFlNC1hNTg2LTMxN2NlOWVhYWZmYiJ9&pageName=4952a90622ed792a18d3)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Rapport%20Interactif-F2C811?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiZTcwYzVlZTUtZDZmYS00YjQwLWIxODEtMjUxYTkwZDU4MzlkIiwidCI6IjI3YThmZjFkLTc1YTAtNGFlNC1hNTg2LTMxN2NlOWVhYWZmYiJ9)
 
-Le dashboard couvre 3 axes : état de la situation, cartographie des incidents,
+Le dashboard couvre 3 axes : état de la situation, cartographie des incidents, 
 et analyse de la performance par rapport aux objectifs légaux.
 
 ---
