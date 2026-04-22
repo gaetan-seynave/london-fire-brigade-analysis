@@ -8,9 +8,6 @@ data/
 *.csv
 *.xlsx
 
-# Fichiers Power BI
-*.pbix
-
 # Cache API
 .cache/
 *.sqlite
